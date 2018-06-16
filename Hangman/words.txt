@@ -1,0 +1,128 @@
+-movies
+star wars
+avatar
+titanic
+jurassic world
+the avengers
+batman
+superman
+spiderman
+finding dory
+finding nemo
+shrek
+pirates of the caribbean
+doctor strange
+inception
+pulp fiction
+interstellar
+gravity
+fight club
+american pie
+sausage party
+inside out
+mission impossible
+edge of tomorrow
+saving private ryan
+braveheart
+a beautiful mind
+iron man
+despicable me
+deadpool
+inside out
+frozen
+zootopia
+suicide squad
+forrest gump
+minions
+transformers
+terminator
+inception
+gravity
+hangover
+the matrix
+home alone
+the incredibles
+harry porter
+the pursuit of happiness
+-brand
+apple
+samsung
+nokia
+google
+acer
+asus
+ford
+toyota
+hyundai
+motorola
+dell
+sony
+amazon
+honda
+walmart
+-country
+nepal
+china
+india
+mexico
+australia
+japan
+korea
+england
+france
+germany
+russia
+mongolia
+south africa
+kenya
+canada
+brazil
+uruguay
+belgium
+norway
+sweden
+switzerland
+uganda
+cuba
+maldives
+bhutan
+bangladesh
+pakistan
+afghanistan
+peru
+bolivia
+chile
+-fruits
+apple
+banana
+strawberry
+peach
+pineapple
+orange
+mango
+grapes
+litchi
+avocado
+lemon
+pear
+pomegranate
+coconut
+-animal
+tiger
+lion
+chimpanzee
+monkey
+elephant
+bear
+leopard
+zebra
+mouse
+guinea pig
+python
+anaconda
+rabbit
+crocodile
+gorilla
+rhino
+racoon
+
